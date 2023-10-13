@@ -9,7 +9,7 @@ Simple chatbot using OpenAI's GPT-3.5 Turbo API for use on terminals and TTYs. I
 ## Goals
 
 - Use the Best Free OpenAI API Model
-- Make it as simple as possible and make it available for use on Terminals/TTYs
+- Make it as simple as possible for use on Terminals/TTYs
 - Yep, that's it! 
 
 ## Prerequisites
