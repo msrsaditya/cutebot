@@ -6,6 +6,12 @@ Simple chatbot using OpenAI's GPT-3.5 Turbo API for use on terminals and TTYs. I
 
 ![Chatbot Screenshot](https://github.com/msrsaditya/cutebot/blob/main/cutebot.png)
 
+## Goals
+
+- Use the Best Free OpenAI API Model
+- Make it as simple as possible and make it available for use on Terminals/TTYs
+- Yep, that's it! 
+
 ## Prerequisites
 
 - Python and pip should be installed and updated to the latest version.
