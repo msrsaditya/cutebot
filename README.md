@@ -4,7 +4,7 @@ Simple chatbot using OpenAI's GPT-3.5 Turbo API for use on terminals and TTYs. I
 
 ## Screenshot
 
-![Chatbot Screenshot](screenshot.png)
+![Chatbot Screenshot](https://github.com/msrsaditya/cutebot/blob/main/cutebot.png)
 
 ## Prerequisites
 
